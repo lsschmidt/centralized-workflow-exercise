@@ -1,5 +1,5 @@
 this is my favorite recipe: italian pizza
 * add dough 
 * tomatos
-* cheese 
+* nice cheese 
 * other nice stuff... 
